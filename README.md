@@ -49,7 +49,7 @@ Step6: once it is successfully done you can see the localhost url like
    example:  https://localhost:4000 
 
 Step 7: To validate data use postman API in that you have to use POST method and paste the url   
-   example:  https://localhost:3000/staffdetails 
+   example:  https://localhost:4000/staffdetails 
 
 step 8: create a Mongoose Model o the same Schema collection
 
